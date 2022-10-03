@@ -7,5 +7,4 @@ public class commit {
 		System.out.println("made some changes");
 		System.out.println("this is my third commit");
 	}
-
 }
